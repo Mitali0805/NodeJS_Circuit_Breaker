@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_circuitbreaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "opossum": "^6.1.0"
+  }
+}
